@@ -9,7 +9,8 @@ Welcome to my GitHub profile!
 - **Mobile Development**: Flutter, React Native (Expo framework)
 - **Backend Development**: Node.js, FastAPI, Django, PayMongo API integration
 - **Databases**: MySQL, DBeaver, SQL
-- **Other Tools**: Microsoft 365, Git, Composer, VS Code, API integration
+- **Cloud Computing**: Aws (EC2, S3, RDS), Digital Ocean, Docker
+- **Other Tools**: Microsoft 365, Git, Composer, VS Code, API integration, Elastic Search, Linux
 - **Languages**: JavaScript, TypeScript, Python, PHP
 
 ---
